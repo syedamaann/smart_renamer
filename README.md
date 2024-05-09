@@ -22,7 +22,7 @@ source ~/.zshrc
 
 ### 2. Clone the Repository:
 ```bash
-git clone https://github.com/[YourGitHub]/smart_renamer.git
+git clone https://github.com/syedamaann/smart_renamer.git
 cd smart_renamer
 ```
 
