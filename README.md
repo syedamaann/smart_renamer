@@ -5,7 +5,7 @@ https://github.com/syedamaann/smart_renamer/assets/74735966/919af8ad-c969-4d06-8
 
 
 
-**Smart Renamer** automates the process of renaming screenshots based on their content using AI analysis with OpenAI's GPT-4 Vision API. The script identifies the latest screenshot, analyzes it to generate a descriptive filename, renames the file, and logs it to prevent reprocessing. This automation enhances file organization and retrieval efficiency, as files are named meaningfully rather than by arbitrary default names. Additionally, by logging each processed file, the system ensures that no resources are wasted on reprocessing previously handled images.
+**Smart Renamer** automatically organizes and renames macOS screenshots using Automator and OpenAI's GPT-4 Vision API. It detects new screenshots, analyzes content to create descriptive filenames, renames them, and logs each to avoid reprocessing.
 
 ## Features
 - **Locate Screenshots**: Finds the most recent screenshot in a specified directory.
